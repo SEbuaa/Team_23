@@ -1,2 +1,7 @@
 # Team_23
-Test
+member:
+Song Lijun
+Huang Hongyi
+Zhang Hailong
+Yang Ming
+Yang Mingjia
