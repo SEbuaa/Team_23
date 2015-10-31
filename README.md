@@ -1,5 +1,5 @@
 # Team_23
-member:
+members:
 Song Lijun
 Huang Hongyi
 Zhang Hailong
