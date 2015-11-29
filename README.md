@@ -1,7 +1,3 @@
 # Team_23
-members:
-Song Lijun
-Huang Hongyi
-Zhang Hailong
-Yang Ming
-Yang Mingjia
+成员：
+宋立军，黄宏毅，张海龙，杨明嘉，杨明
